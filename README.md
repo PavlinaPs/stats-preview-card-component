@@ -28,11 +28,11 @@ Users should be able to:
 
 | Desktop layout |
 |:--:|
-![Desktop layout](./screenshots/screenshot-desktop.jpg)
+![Desktop layout](./Screenshots/screenshot-desktop.jpg)
 
 | Mobile layout |
 |:--:|
-![Mobile layout](./screenshots/screenshot-mobile-top.jpg) ![Mobile layout](./screenshots/screenshot-mobile-bottom.jpg)
+![Mobile layout](./Screenshots/screenshot-mobile-top.jpg) ![Mobile layout](./Screenshots/screenshot-mobile-bottom.jpg)
 
 
 
