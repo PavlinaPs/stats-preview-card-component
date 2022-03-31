@@ -72,6 +72,7 @@ I need to continue to code a lot to get more experience. I guess there are still
 
 - [mix-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode) on MDN including effects of different mix-blend-mode values
 - [background-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode) on MDN, also with examples.
+- [here on Stack Overflow](https://stackoverflow.com/questions/2504071/how-do-i-combine-a-background-image-and-css3-gradient-on-the-same-element) is a way, how to style the image. I tried but it didn't work out. I probably did something not correctly.
 
 ## Author
 
